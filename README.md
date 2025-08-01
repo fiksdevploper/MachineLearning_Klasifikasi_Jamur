@@ -1,6 +1,6 @@
 ## 🍄 Proyek Klasifikasi Jamur
 
-Proyek ini merupakan implementasi model klasifikasi biner untuk **memprediksi apakah suatu spesimen jamur bersifat dapat dimakan atau beracun** berdasarkan fitur-fitur deskriptif yang tersedia. Model dibangun menggunakan algoritma **Random Forest**, yang terkenal karena kemampuannya dalam menghasilkan prediksi yang akurat dan menangani data kategori dengan baik.
+Proyek ini merupakan implementasi model klasifikasi biner untuk **memprediksi apakah suatu spesimen jamur bersifat dapat dimakan atau beracun** berdasarkan fitur-fitur deskriptif yang tersedia. 
 
 Dengan memanfaatkan teknik machine learning dan evaluasi berbasis confusion matrix, model ini memberikan performa yang sangat tinggi dan dapat diandalkan untuk tugas klasifikasi.
 
